@@ -19,5 +19,5 @@ steps:
     npm install
     npm build
   displayName: 'npm install and build'
-- task: PublishBuildArtifacts@1
+
 
